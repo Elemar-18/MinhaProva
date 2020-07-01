@@ -71,9 +71,6 @@
         <button type="button" class="btn btn-primary"><i class="fas fa-file-pdf mr-2"></i>Gerar PDF</button>
     </div>
     <!-- Fim Gerar PDF -->
-
-    <?php
-        include './scripts/addRemoveQuestion.php';
-    ?>
+    <script src="./scripts/addRemoveQuestion.js"></script>
 </body>
 </html>
